@@ -1,2 +1,4 @@
 # Machine-Learning
-All ml projects will be stored here
+Project 1:
+Heart disease classification model (Jupyter notebook)
+
