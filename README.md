@@ -1,2 +1,2 @@
 # Machine-Learning
-All ml projects will be stred here
+All ml projects will be stored here
