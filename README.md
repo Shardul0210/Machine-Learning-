@@ -20,5 +20,5 @@ house prices in test dataset;Submitted the prediction file sample_submission2.cs
 Car Price Prediction:
 No missing data found, model the data using one-hot encoding  for categorical features
 Deleted unwanted feature and derived a new feature from existing one.
-Used Random Forest Regressor model and pruned the model with RandomizedSearchCV to find best parameters.MSE: 1.158; RMSE: 1.076
+Used Random Forest Regressor model and pruned the model with RandomizedSearchCV to find best parameters.4.	MAE: 0.694;MSE: 1.158; RMSE: 1.076
 
