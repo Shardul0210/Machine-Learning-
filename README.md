@@ -21,4 +21,4 @@ Car Price Prediction:
 Identiﬁed and Dealt with missing data, modelling the data using one-hot encoding .
 Modelled data using using one-hot coding for one-hot encoding.
 Used Random Forest Regressor model and pruned the model with RandomisedSearchCV to find best parameters.
-MSE: 1.1581546796101312 RMSE: 1.0761759519753873.
+MSE: 1.158 RMSE: 1.076
