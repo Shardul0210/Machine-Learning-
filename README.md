@@ -15,3 +15,10 @@ Train and test datasets were given. Cleaned both datasets and took care of null 
 Drop the columns having more than 50% of null values;Combined testand train for one hot encoding and then split again;
 Remove the house price column from the test data to form X_train and y_train dataframes; Used Xgboost regressor for training the data. Used the model to predict 
 house prices in test dataset;Submitted the prediction file sample_submission2.csv on kaggle. Rank: 1745; Mean Squared Error: 0.14257
+
+#Project 3:
+Car Price Prediction:
+Identiﬁed and Dealt with missing data, modelling the data using one-hot encoding .
+Modelled data using using one-hot coding for one-hot encoding.
+Used Random Forest Regressor model and pruned the model with RandomisedSearchCV to find best parameters.
+MSE: 1.1581546796101312 RMSE: 1.0761759519753873.
